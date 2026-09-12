@@ -1,0 +1,2 @@
+Live portfolio: https://jaredharrell.netlify.app
+Resume and website source are being kept in sync with the live deployment.
