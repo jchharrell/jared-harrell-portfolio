@@ -1,23 +1,19 @@
-# Jared Harrell — Software Engineering & Data Science Portfolio
+# Jared Harrell Portfolio
 
-A recruiter-focused portfolio highlighting application delivery, software engineering, machine-learning engineering, data quality, and systems work.
+Live portfolio: https://jaredharrell.netlify.app
 
-## Featured projects
+Recruiter-focused software engineering and data science portfolio for Jared Harrell.
 
-- **ClaimsOps** — application delivery / workflow engineering
-- **SignalForge** — ML observability / drift monitoring
-- **DataFoundry** — data quality / ETL
-- **RoutePulse** — event-driven systems / queueing
+## Flagship projects
+- ClaimsOps - application delivery / workflow engineering
+- SignalForge - ML observability / data drift
+- DataFoundry - data quality / ETL
+- RoutePulse - event-driven systems / queueing
 
-The portfolio also includes selected academic and technical work as a secondary project archive.
+The live site includes case studies, working browser demos, source-code links, an ATS-friendly resume, and a recruiter tour.
 
 ## Profile
-
-B.S. Computer Science, Cum Laude — East Carolina University, December 2025  
-M.S. Data Science — East Carolina University, expected May 2027
+B.S. Computer Science, Cum Laude - East Carolina University, December 2025  
+M.S. Data Science - East Carolina University, expected May 2027
 
 Graduate Teaching and Data Science Research Assistant with experience in Python automation, data processing, statistical analysis, data cleaning, and technical communication.
-
-## Deployment
-
-Static HTML/CSS/JavaScript. The site can be deployed directly with Netlify or another static host.
